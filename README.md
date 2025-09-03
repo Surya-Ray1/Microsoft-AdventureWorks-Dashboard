@@ -13,8 +13,6 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 #### Query Editing Tool: "Microsoft SQL Server Management Studio"
 #### Visualization Tool: "Microsoft Power BI"
 
-
-
 ## DATA VISUALIZATION
 ##### i. Entity Relationship Diagram Model
 ![1  Model Relations](https://user-images.githubusercontent.com/45898995/119708373-e8bfb780-be7d-11eb-90b2-5da0afdedcce.PNG)
